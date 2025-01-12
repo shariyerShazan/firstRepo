@@ -1,0 +1,49 @@
+.vision h2 {
+    font-weight: bold;
+    font-size: 40px;
+    margin: 24px 0px;
+}
+.vision p {
+    font-weight: lighter;
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: #0E0E0E;
+}
+
+
+.vision{
+    margin-bottom: 32px;
+}
+
+.cardVision img{
+    height: 62px;
+    width: 62px;
+    padding-bottom: 24px;
+}
+.cardVision h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.cardVision p {
+    font-weight: lighter;
+    font-size: 16px;
+    color: #0E0E0E 70%;
+}
+.cardVision button{
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #5490F5;
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+}
+.cardVision{
+    height: 280px;
+    width: 280px;
+    padding: 24px;
+    background: rgba(84, 144, 245, 0.2);
+    border: none;
+    border-radius: 16px;
+}

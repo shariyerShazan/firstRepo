@@ -1,0 +1,54 @@
+.donateTitle{
+    text-align: center;
+    padding: 16px 120px;
+    margin: 30px 0px;;
+}
+.donateTitle h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.donateTitle p{
+      font-size: 16px;
+      color: rgba(14, 14, 14, 0.7);
+}
+
+.btnDonate{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+    border:  none;
+    border-radius: 16px;
+    background: #FFFFFF;
+    margin: 32px 0px;
+}
+.btnDonate:hover{
+    background: rgba(198, 228, 214, 1);
+}
+.btnDiv{
+     display: flex ;
+     gap: 30px;
+     justify-content: center;
+}
+.inputDonate{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    padding: 20px;
+}
+.inputDonate input{
+    width: 70%;
+    text-align: center;
+    border: none;
+}
+.submitDonate{
+    padding: 20px 30px;
+    background: #006A50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+.submitDiv{
+    display: flex;
+    justify-content: center;
+}

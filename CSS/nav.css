@@ -1,0 +1,30 @@
+nav ul li {
+    list-style: none;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body{
+    max-width: 85%;
+    margin: 0 auto;
+    background: #F1F1F3;
+}
+
+#liOne {
+    font-size: 32px;
+    font-weight: bold;
+}
+#liTwo button {
+    height: 52px;
+    width: 116px;
+    color: #006A50;
+    border: solid 1px #006A50 ;
+    border-radius: 8px;
+    background: white;
+}
+nav{
+    margin-top: 20px 0px;
+}

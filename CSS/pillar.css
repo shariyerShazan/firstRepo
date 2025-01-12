@@ -1,0 +1,36 @@
+.pillar h2 {
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+    margin: 32px 0px;
+}
+.pillar{
+    margin: 80px 0px;
+}
+.cardPillar img{
+    height: 62px;
+    width: 62px;
+    padding-bottom: 24px;
+}
+.cardPillar h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.cardPillar p {
+    font-weight: lighter;
+    font-size: 16px;
+    color: #0E0E0E 70%;
+}
+.cardPillar{
+    height: 202px;
+    width: 220px;
+    padding: 24px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 16px;
+}
+.flexCard{
+    display: flex;
+    justify-content: space-between;
+}

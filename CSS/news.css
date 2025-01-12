@@ -1,0 +1,40 @@
+.newsTitle h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+.newsTitle p{
+    font-size: 16px;
+     color: #0E0E0E 70px;
+}
+.newsImg{
+    width: 408px;
+    height: 307px;
+    border-radius: 5%;
+}
+
+.cardNews{
+    display: flex;
+    gap: 40px;
+    height: 300px;
+    /* width: 100%; */
+    padding: 50px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 26PX;
+    align-items: center;
+    margin: 30px 0px;
+}
+.newsDiv p{
+     font-weight: normal;
+     font-size: 16px;
+     color: rgba(14, 14, 14, 0.8);
+}
+.newsDiv h2{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.newsDiv img {
+    height: 40px;
+    width: 130px;
+}

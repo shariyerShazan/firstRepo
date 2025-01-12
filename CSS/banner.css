@@ -1,0 +1,34 @@
+#banner {
+    background: #C6E4D6;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 100px;
+    margin: 80px 0px;
+}
+
+#banner div h4 {
+    font-weight: lighter;
+    font-size: 24px;
+    color:  #0E0E0E;
+    opacity: .5;
+    
+}
+#banner div h2 {
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+}
+
+#banner div button{
+    background: #006A50;
+    color: white;
+    font-weight: normal;
+    border: none;
+    border-radius: 8px;
+    padding: 14px 26px;
+}
+#banner div {
+    height: 326px;
+    width: 622px;
+}

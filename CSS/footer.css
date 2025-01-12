@@ -1,0 +1,16 @@
+footer h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footerImg{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 20px 0px 100px;
+}
+.footerImg img{
+    height: 35px;
+    width: 35px;
+}
